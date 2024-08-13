@@ -1,7 +1,9 @@
 <h1 align="center">Hola 👋, Mi nombre es Miguel Bonifaz</h1>
-<h3 align="center">Backend developer ✨</h3>
+<h3 align="center">Backend Developer ✨</h3>
 
-- 🌱 Estoy aprendiendo **ser mejor profesional usando Laravel + Vuejs**
+- Estoy aprendiendo **ser mejor profesional usando Laravel + Vuejs**
+
+- 💼 Puedes revisar mi portfolio en [https://portfolio.miguelbonifaz.com](https://portfolio.miguelbonifaz.com/)**
 
 - 📝 De vez en cuando escribo algún post en [miguelbonifaz.com](miguelbonifaz.com)
 
