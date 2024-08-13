@@ -3,7 +3,7 @@
 
 - 🌱 Estoy aprendiendo **ser mejor profesional usando Laravel + Vuejs**
 
-- 📝 De vez en cuando escribo algún post en [miguelbonifaz.com (soon)](miguelbonifaz.com (soon))
+- 📝 De vez en cuando escribo algún post en [miguelbonifaz.com](miguelbonifaz.com)
 
 - 📫 Ponte en contacto conmigo **miguelbonifaz126@gmail.com**
 
