@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  Explora mis proyectos en producción, agentes de IA conversacional y soluciones empresariales<br/>
+  Descubre mis proyectos, soluciones reales y el impacto generado<br/>
   👉 <strong><a href="https://portfolio.miguelbonifaz.com">portfolio.miguelbonifaz.com</a></strong>
 </p>
 
