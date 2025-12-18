@@ -1,21 +1,77 @@
-<h1 align="center">Hola 👋, Mi nombre es Miguel Bonifaz</h1>
-<h3 align="center">Backend Developer ✨</h3>
+<h1 align="center">👋 Hola, soy Miguel Bonifaz</h1>
+<h3 align="center">Desarrollador Laravel | Especialista en Automatizaciones con IA</h3>
 
-- Estoy aprendiendo **ser mejor profesional usando Laravel + Vuejs**
-
-- 💼 Puedes revisar mi portfolio en [https://portfolio.miguelbonifaz.com](https://portfolio.miguelbonifaz.com/)**
-
-- 📝 De vez en cuando escribo algún post en [miguelbonifaz.com](miguelbonifaz.com)
-
-- 📫 Ponte en contacto conmigo **miguelbonifaz126@gmail.com**
-
-- ⚡ Fun fact **Me encanta jugar smash bros y seguir aprendiendo técnologías web ⚡**
-
-<h3 align="left">Social media:</h3>
-<p align="left">
-<a href="https://twitter.com/mbonifaz126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mbonifaz126" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/miguelbonifaz126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguelbonifaz126" height="30" width="40" /></a>
+<p align="center">
+  <strong>🚀 Más de 5 años construyendo aplicaciones web y agentes inteligentes</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
+
+### 💼 Portfolio
+
+<p align="center">
+  <a href="https://miguelbonifaz.dev" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Ver_Portfolio-miguelbonifaz.dev-black?style=for-the-badge&labelColor=gray" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  Explora mis proyectos en producción, agentes de IA conversacional y soluciones empresariales<br/>
+  👉 <strong><a href="https://miguelbonifaz.dev">miguelbonifaz.dev</a></strong>
+</p>
+
+---
+
+### 🛠️ Stack Tecnológico
+
+<p align="left">
+  <a href="https://laravel.com/" target="_blank"><img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="40" height="40"/></a>
+  <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/></a>
+  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+</p>
+
+**Especializado en:**
+- Laravel, Livewire, Filament, Inertia.js
+- Vue.js & Alpine.js
+- Agentes de IA conversacional (WhatsApp, n8n)
+- Automatizaciones empresariales
+
+---
+
+### 🎯 Actualmente
+
+- 🔧 Desarrollando **agentes de IA conversacional** para automatizar procesos empresariales
+- 📚 Perfeccionando mis habilidades en **Laravel + Vue.js**
+- ✍️ Escribiendo ocasionalmente en **[miguelbonifaz.com](https://miguelbonifaz.com)**
+
+---
+
+### 📬 Contacto
+
+<p align="left">
+  <a href="https://linkedin.com/in/miguelbonifaz126" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/mbonifaz126" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="mailto:miguelbonifaz126@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Email-miguelbonifaz126%40gmail.com-red?style=flat&logo=gmail" alt="Email" height="30"/>
+  </a>
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+Cuando no estoy programando, me encuentras jugando **Super Smash Bros** 🎮 o explorando nuevas tecnologías web.
+
+---
+
+<p align="center">
+  <em>📍 Basado en Guayaquil, Ecuador 🇪🇨</em>
+</p>
